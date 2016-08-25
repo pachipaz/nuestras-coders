@@ -1,0 +1,68 @@
+.foto1 {
+	background-image: url("../img/profile-1.png");
+	width: 211px;
+	height:211px;
+	position: relative;
+	margin-left: 15px;
+
+}
+.foto2 {
+	background-image: url("../img/profile-2.png");
+	width: 211px;
+	height:211px;
+	position: relative;
+	margin-top: -211px;
+	margin-left: 250px;
+}
+.foto3 {
+	background-image: url("../img/profile-3.png");
+	width: 211px;
+	height:211px;
+	position: relative;
+	margin-top: -211px;
+	margin-left: 500px;
+
+}
+.foto4 {
+	background-image: url("../img/profile-4.png");
+	width: 211px;
+	height:211px;
+	position: relative;	
+	margin-top: 10px;
+	margin-left: 15px;
+
+	
+}
+.foto5 {
+	background-image: url("../img/profile-5.png");
+	width: 211px;
+	height:211px;
+	position: relative;
+	margin-top: -211px;
+	margin-left: 250px;
+
+}
+.foto6 {
+	background-image: url("../img/profile-6.png");
+	width: 211px;
+	height:211px;
+	position: relative;
+	margin-top: -211px;
+	margin-left: 500px;
+}
+.nombre1,.nombre2, .nombre3, .nombre4, .nombre5, .nombre6 {
+	position: absolute;
+	bottom:0px;
+	right:0px;
+	color:white;
+}
+hr.style {
+	width: 100px;
+    border-top: black solid 3px;
+    display: inline-block;
+    text-align: left;
+    margin-bottom: -5px;
+
+     }
+
+
